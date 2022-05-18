@@ -1,6 +1,6 @@
 # **0x16. C - Simple Shell**
 
-![simple shell_logo]https://github.com/iwanoszet07/iwanoszet07/blob/main/logo.gif
+![simple shell_logo](https://github.com/iwanoszet07/iwanoszet07/blob/main/logo.gif)
 
 ## Learning Objectives
 
