@@ -1,5 +1,7 @@
 # **0x16. C - Simple Shell**
 
+![simple shell_logo]https://github.com/iwanoszet07/iwanoszet07/blob/main/logo.gif
+
 ## Learning Objectives
 
 *    At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
